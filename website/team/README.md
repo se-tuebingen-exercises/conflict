@@ -4,23 +4,23 @@ We're an exciting new software company in Tübingen!
 
 ## Members
 
-### Jonathan Müller
+### Jane Doe (CEO)
 
-_CEO and co-founder of the company_
+_CEO of the company_
+
+Email: `programspourtue-jane@gmail.com`
+
+### Jonathan Müller (CTO)
+
+_CTO and co-founder of the company_
 
 Email: `programspourtue-jonathan@gmail.com`
 
-### Jonathan Schmidt
+### Jonathan Schmidt (CFO)
 
 _CFO and co-founder of the company_
 
 Email: `programspourtue-jonathan2@gmail.com`
-
-### Jane Doe
-
-_CTO of the company_
-
-Email: `programspourtue-jane@gmail.com`
 
 ### Karl Schneider
 

@@ -16,11 +16,11 @@ _Chief Financial Officer and co-founder of the company_
 
 Email: `programspourtue-jonathan.schmidt@gmail.com`
 
-### Jane Doe
+### Jane Smith
 
 _Chief Technology Officer of the company_
 
-Email: `programspourtue-jane.doe@gmail.com`
+Email: `programspourtue-jane.smith@gmail.com`
 
 ### Karl Schneider
 

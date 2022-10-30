@@ -2,9 +2,9 @@
 
 ProgramsPourTü GmbH offers the following services:
 
-## Websites
+## Web development
 
-Yeah, you heard correctly -- we can create websites!
+Yeah, you heard correctly -- we can create websites from frontend to backend!
 
 ## Statistical methods
 

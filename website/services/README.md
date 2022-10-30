@@ -9,8 +9,8 @@ _Write us an email at `programspourtue@gmail.com`!_
 
 Yeah, you heard correctly -- we can create websites!
 
-## Statistical models
+## Statistical methods
 
-We can provide you with advanced statistical models
-and decision trees. You can use the advanced statistical models
+We can provide you with advanced statistical methods
+and decision trees. You can use the advanced statistical methods
 together with inference to improve your business.

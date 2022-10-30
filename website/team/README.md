@@ -8,22 +8,22 @@ We're an exciting new software company in Tübingen!
 
 _CEO and co-founder of the company_
 
-Email: `programspourtue-jonathan@gmail.com`
+Email: `jonathan@programspourtue.example`
 
 ### Jonathan Schmidt
 
 _CFO and co-founder of the company_
 
-Email: `programspourtue-jonathan2@gmail.com`
+Email: `jonathan2@programspourtue.example`
 
 ### Jane Doe
 
 _CTO of the company_
 
-Email: `programspourtue-jane@gmail.com`
+Email: `jane@programspourtue.example`
 
 ### Karl Schneider
 
 _an intern_
 
-Email: `programspourtue-karl@gmail.com`
+Email: `karl@programspourtue.example`

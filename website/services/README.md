@@ -5,11 +5,11 @@ Then ProgramsPourTü is here for _you_!
 
 _Write us an email at `programspourtue@gmail.com`!_
 
-## Statistical models
+## Artificial intelligence
 
-We can provide you with advanced statistical models
-and decision trees. You can use the advanced statistical models
-together with inference to improve your business.
+We can provide you with advanced artificial intelligence, machine learning
+and decision trees. You can use the advanced advanced artificial intelligence
+together with machine learning to improve your business.
 
 ## Websites
 

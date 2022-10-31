@@ -22,8 +22,8 @@ _CFO and co-founder of the company_
 
 Email: `programspourtue-jonathan2@gmail.com`
 
-### Karl Schneider
+### Karl Schneider, BSc.
 
-_an intern_
+_full-stack programmer_
 
 Email: `programspourtue-karl@gmail.com`

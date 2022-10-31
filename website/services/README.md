@@ -13,4 +13,8 @@ together with inference to improve your business.
 
 ## Websites
 
-Yeah, you heard correctly -- we can create websites!
+Yeah, you heard correctly -- 
+even though we're a small company, we can create websites!
+We can help you with navigating
+the complex landscape of web development using
+industry-standard tools such as Microsoft FrontPage.
